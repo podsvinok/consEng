@@ -1,0 +1,35 @@
+/*for (int q = 0, i = 0; i < qwe123.length(); i++) {
+            if (qwe123[i] != 'r' && qwe123[i] != ' ' && qwe123[i] != 'M' && qwe123[i] != 'T' && qwe123[i] != '#' && qwe123[i] != '$') {
+                foes.push_back(Foe(MaxX, MaxY));
+                SpawnEntity(foes[foes.size() - 1]);
+            }
+            if (qwe123[i] != '$') {
+                SpawnEntity(Actor(MaxX, MaxY));
+            }
+        }*/
+_____________________________________________________________________________________________
+ /* ifstream txt("C:/Users/User/Desktop/asd123/m1.txt");
+    string qwe;
+    while (!txt.eof()) {
+        qwe += txt.get();
+    }
+    cout << qwe;
+    SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), { 0, 2 });
+    cout << "\b ";
+    SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), { 0, 10 });
+    qwe[25 * 2 + 0] = ' ';
+    cout << qwe;*/
+_____________________________________________________________________________________________
+
+    /*SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), { 0, 30 });
+    cout << qwe.entities[0].y;
+    qwe.MoveObject(qwe.entities[0], -1, -1);
+    SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), { 0, 31 });
+    cout << qwe.entities[0].y;
+    SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), { 0, 32 });*/
+_____________________________________________________________________________________________
+ //while (Map[(MaxX + 1) * (projectiles[projectiles.size() - 1].y + projectiles[projectiles.size() - 1]._vectY) + projectiles[projectiles.size() - 1].x + projectiles[projectiles.size() - 1]._vectX - 1] == ' ')
+        //MoveObject(projectiles[projectiles.size() - 1], projectiles[projectiles.size() - 1]._vectX, projectiles[projectiles.size() - 1]._vectY);
+        //SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), { (short)(0), (short)(25) });
+        //cout << endl << projectiles[0]._vectX << projectiles[0].temp << temp;
+        //cout << endl << projectiles[0]._vectY << projectiles[0].temp << temp;
